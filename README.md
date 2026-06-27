@@ -37,16 +37,6 @@ The official website for **Total Tech Solutions**, your one-stop tech shop in **
 
 ---
 
-## How to deploy (GitHub Pages)
-
-1. Push this repository to GitHub
-2. Go to **Settings → Pages**
-3. Under **Branch**, select `main` and `/ (root)`
-4. Click **Save**
-5. Your site will be live at `https://YOUR-USERNAME.github.io/REPO-NAME`
-
----
-
 ## Project structure
 
 ```
